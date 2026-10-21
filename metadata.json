@@ -1,0 +1,8 @@
+{
+  "name": "AI Travel Intelligence Agent",
+  "description": "Next-generation intelligent travel planning system powered by Google Gemini, interactive 3D Globe with flight paths, multi-day smart itinerary builder, cost optimization, and conversational travel agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
