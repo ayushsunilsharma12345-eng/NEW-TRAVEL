@@ -13,7 +13,7 @@
 
 ## 📌 Abstract & Academic Summary
 
-The **AI Travel Intelligence Agent** is an intelligent web-based travel assistance and planning system designed to simplify and improve the travel planning process. Combining modern frontend interfaces with Google Generative AI (`gemini-3.8-flash`) and Three.js WebGL graphics, the system analyzes travelers' constraints—origin, destination, duration, group size, travel style, and budget preferences—to generate comprehensive multi-day itineraries with granular time-slotted activities, realistic localized budgets, weather advisories, emergency numbers, cultural etiquette, and dynamic packing checklists.
+The **AI Travel Intelligence Agent** is an intelligent web-based travel assistance and planning system designed to simplify and improve the travel planning process. Combining modern frontend interfaces with  and Three.js WebGL graphics, the system analyzes travelers' constraints—origin, destination, duration, group size, travel style, and budget preferences—to generate comprehensive multi-day itineraries with granular time-slotted activities, realistic localized budgets, weather advisories, emergency numbers, cultural etiquette, and dynamic packing checklists.
 
 The interactive 3D Global Intel Sphere visualizes destinations on a procedural Earth model with curved sub-orbital flight trajectory arcs, offering an immersive alternative to conventional static travel websites.
 
